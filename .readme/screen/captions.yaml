@@ -1,0 +1,12 @@
+01-overview.png:
+  en: "The assistant works inside the Zabbix preprocessing test dialog and guides the operator from a real input value to a usable transformation."
+  cs: "Asistent pracuje přímo v testovacím dialogu předzpracování Zabbixu a vede operátora od skutečné hodnoty k použitelné transformaci."
+02-item-form.png:
+  en: "The highlighted AI Preprocessing Assistant button is available directly on the item preprocessing tab."
+  cs: "Zvýrazněné tlačítko AI Preprocessing Assistant je dostupné přímo na kartě předzpracování položky."
+03-zabbix-60.png:
+  en: "The same workflow is available on the supported legacy Zabbix interface."
+  cs: "Stejný pracovní postup je dostupný také v podporovaném starším rozhraní Zabbixu."
+06-settings.png:
+  en: "Administrators centrally configure the AI provider and model used for preprocessing recommendations."
+  cs: "Správci centrálně nastavují poskytovatele AI a model používaný pro doporučení předzpracování."
