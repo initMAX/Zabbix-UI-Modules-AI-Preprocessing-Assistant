@@ -1,0 +1,12 @@
+01-overview.png:
+  en: "Tell the assistant what you need: it proposes the chain, sets the type of information and unlocks Add preprocessing."
+  cs: "Řekněte asistentovi, co potřebujete: navrhne řetězec, nastaví typ informace a odemkne Add preprocessing."
+02-item-form.png:
+  en: "One click writes every step into the item form, highlights the change and offers Run test and Undo."
+  cs: "Jedno kliknutí zapíše všechny kroky do formuláře položky, zvýrazní změnu a nabídne Otestovat a Vrátit zpět."
+06-settings.png:
+  en: "One admin page: provider, model, masked API key, tuning and the assistant's prompts - every AI call is made server-side."
+  cs: "Jedna stránka administrace: poskytovatel, model, maskovaný API klíč, ladění a prompty asistenta - všechna volání AI probíhají na straně serveru."
+portal-installer.png:
+  en: "The guided installer on the initMAX Portal fills your token into the install command for you."
+  cs: "Průvodce instalací na initMAX Portálu doplní váš token do instalačního příkazu za vás."
